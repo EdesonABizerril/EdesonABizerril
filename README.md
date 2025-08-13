@@ -18,7 +18,7 @@ const edersonBizerril = {
       hybrid: ["Flutter"],
       native: ["Android, iOS"]
     },
-    backend: ["Firebase", "REST APIs", "SQLite"],
+    backend: ["Firebase", Fast API, "REST APIs", "SQLite"],
     devOps: ["Docker Swarm", "Traefik", "Cloudflare"],
     ciCd: ["Bitrise", "Jenkins"],
     misc: ["Figma", "Adobe XD", "SonarQube"]
@@ -27,7 +27,7 @@ const edersonBizerril = {
   architecture: ["Clean Architecture", "MVVM", "Modularization"],
   testing: ["Unit", "Widget", "Integration"],
   softSkills: ["Technical Leadership", "Clear Communication", "Emotional Intelligence"],
-  learning: ["Advanced AI", "Business Strategy"]
+  learning: ["Advanced AI", "Business Strategy", "Marketing"]
 }
 ```
 
