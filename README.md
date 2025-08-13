@@ -12,7 +12,7 @@
 
 ```dart
 const edersonBizerril = {
-  code: ["Dart", "Flutter", "Java", "JavaScript"],
+  code: ["Dart", "Flutter", "Python", "Java", "JavaScript"],
   technologies: {
     mobileApp: {
       hybrid: ["Flutter"],
